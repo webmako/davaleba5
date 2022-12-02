@@ -1,0 +1,108 @@
+body {
+    font-family: Roboto;
+}
+
+
+header{
+width: 1280px;
+margin:0 auto;
+display:inline-block;
+padding: 41px 66px 55px 44px;
+}
+
+h2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 95px;
+    font-size: 70px;
+  font-weight: bold;
+}
+
+nav{
+    display: inline-block;
+    vertical-align: middle;
+   font-size: 18px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 98px;
+}
+
+
+/* seqcia */
+
+section{
+    background-color: #306b34;
+    padding: 174px 110px 152px 95px;
+    margin: o auto;
+    /* width: 1280px; */
+}
+
+div{
+    display: inline-block;
+    width: 307px; height: 380px;
+    margin-left: 35px;
+    vertical-align: top;
+}
+
+.mission {
+    margin-left: 95px;
+}
+
+h3{
+    font-size: 40px;
+    color: #19381f;
+    margin-bottom: 58px;
+    text-align: center;
+
+}
+.text1{
+    color: #f4f4f1;
+    font-size: 20px;
+}
+
+/* teqst */
+article{
+    text-align: center;
+    /* margin: 184px; */
+    margin-right: 137px;
+    margin-top: 72px;
+    
+}
+h4{
+    font-size: 40px;
+
+}
+.text2{
+    font-size: 20px;
+    margin-top: 72px;
+}
+
+button{
+ 
+    margin-top: 69px;
+    margin-bottom: 33px;
+    background-color: #36413e;
+    width: 148px;
+    height: 48px;
+}
+footer{
+    background-color: #306b34;
+    /* width: 1280px; */
+    height: 68px;
+   /*  padding: 25px 80px 10px 77px; */
+   padding-top: 25px;
+}
+
+
+h5 {
+    font-size: 20px;
+    margin-right: 600px;
+    margin-left: 77px;
+    display: inline-block;
+}
+
+.copyright{
+    display: inline-block;
+}
